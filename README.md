@@ -3,4 +3,4 @@ Polaris - A smart voice assistant
 
 Watch this Project on YouTube!
 
-Shrey Marwaha | Ritik Vatsal
+The Team - Ritik Vatsal | Shrey Marwaha 
